@@ -1,5 +1,5 @@
 package com.example.experimento;
 
 public class Nada {
- String name = "yo";
+ String name = "cosa otra";
 }
